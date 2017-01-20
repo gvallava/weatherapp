@@ -1,0 +1,32 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "a quick node express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "michellenguyen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "inquirer": "^2.0.0",
+    "weather-js": "^1.0.2",
+    "yelp": "^1.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gvallava/weatherapp.git"
+  },
+  "keywords": [
+    "weather",
+    "application",
+    "node",
+    "package"
+  ],
+  "bugs": {
+    "url": "https://github.com/gvallava/weatherapp/issues"
+  },
+  "homepage": "https://github.com/gvallava/weatherapp#readme"
+}
